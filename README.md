@@ -7,7 +7,7 @@
 
 ### Summary
 
-SnapSearch is an image gallergy application created using React and React Hooks. The images were displayed using the Unsplash API and axios to fetch data.
+SnapSearch is an image gallery application created using React and React Hooks. The images were displayed using the Unsplash API and axios to fetch data.
 
 ### Motivation
 
